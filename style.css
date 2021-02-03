@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    max-width: 490px;
+    background-color: gray;
+    padding: 30px;
+}
+
+#mini{
+    width: 150px;
+    height: 150px;
+    background-color: black;
+    display: inline-block;
+    color: blanchedalmond;
+    margin: 6px 4px;
+}
+
+p{
+    display: block; 
+    width: 100px;
+    height: 30px;
+    color: white;
+    vertical-align: middle;
+    text-align:center;
+    position: relative;
+    top: 33%;
+    left: 16%;
+}
